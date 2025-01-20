@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Assets.car</key>
+		<data>
+		U/p8PqIeGXXNKSsTp44qVHaSZdI=
+		</data>
 		<key>Envitus.debug.dylib</key>
 		<data>
-		HNHMlvYR/otjp0CjDSUREn/Q8JQ=
+		+G9nHS0CZypfdNkz2+S5abP6SEw=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -23,11 +27,18 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nbcVOd2NC5W8a6zW4rQl7OyPieH47tRxuMx6EtX9QUk=
+			</data>
+		</dict>
 		<key>Envitus.debug.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vj7pVlSC+GXurVa8/CZ/MOSfUC9XgqSu5vHKqiNFbDI=
+			5zOvy91lWz/xFI2AWNssXVmnYlUKSxbguU9gcz0nKCg=
 			</data>
 		</dict>
 		<key>__preview.dylib</key>

@@ -16,6 +16,16 @@
 			<key>swiftSymbol</key>
 			<string>logo</string>
 		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Envitus/Envitus/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNamePrimaryBtn</string>
+			<key>relativePath</key>
+			<string>./Primary_btn.imageset</string>
+			<key>swiftSymbol</key>
+			<string>primaryBtn</string>
+		</dict>
 	</array>
 	<key>symbols</key>
 	<array/>

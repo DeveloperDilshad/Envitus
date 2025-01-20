@@ -1,0 +1,24 @@
+{
+  "source": "/Users/dilshadp/Envitus/Envitus/View/Splash/WelcomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Already have an account?",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign In",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 40
+        }
+      }
+    ]
+  },
+  "version": 1
+}

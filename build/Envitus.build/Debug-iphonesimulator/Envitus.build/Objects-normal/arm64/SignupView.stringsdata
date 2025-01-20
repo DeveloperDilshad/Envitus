@@ -1,0 +1,16 @@
+{
+  "source": "/Users/dilshadp/Envitus/Envitus/View/SignUp/SignupView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, World!",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 12
+        }
+      }
+    ]
+  },
+  "version": 1
+}

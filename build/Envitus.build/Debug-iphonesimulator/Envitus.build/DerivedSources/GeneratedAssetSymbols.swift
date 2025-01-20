@@ -34,6 +34,9 @@ extension DeveloperToolsSupport.ImageResource {
     /// The "Logo" asset catalog image resource.
     static let logo = DeveloperToolsSupport.ImageResource(name: "Logo", bundle: resourceBundle)
 
+    /// The "Primary_btn" asset catalog image resource.
+    static let primaryBtn = DeveloperToolsSupport.ImageResource(name: "Primary_btn", bundle: resourceBundle)
+
 }
 
 // MARK: - Color Symbol Extensions -
@@ -82,6 +85,15 @@ extension AppKit.NSImage {
 #endif
     }
 
+    /// The "Primary_btn" asset catalog image.
+    static var primaryBtn: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .primaryBtn)
+#else
+        .init()
+#endif
+    }
+
 }
 #endif
 
@@ -94,6 +106,15 @@ extension UIKit.UIImage {
     static var logo: UIKit.UIImage {
 #if !os(watchOS)
         .init(resource: .logo)
+#else
+        .init()
+#endif
+    }
+
+    /// The "Primary_btn" asset catalog image.
+    static var primaryBtn: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .primaryBtn)
 #else
         .init()
 #endif
